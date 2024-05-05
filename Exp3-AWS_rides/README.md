@@ -1,0 +1,2 @@
+we are created code for Serverless Web Application on AWS which works with AWS Lambda, Amazon API Gateway, AWS Amplify, Amazon DynamoDB, and Amazon Cognito. 
+While working for Assignemtn for Secuity Fundamentals for BITS M.Tech cours
